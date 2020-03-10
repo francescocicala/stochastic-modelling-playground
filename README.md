@@ -1,2 +1,7 @@
 # stochastic-modelling-playground
-Stochastic stuff about stochastic modelling (inspired by Stochastic Modelling and Simulations master course, by Prof. Bortolussi)
+
+![](https://github.com/francescocicala/stochastic-modelling-playground/blob/master/images/smdog.jpeg?raw=true)
+
+Stochastic stuff about stochastic modelling, inspired by Stochastic Modelling and Simulations master course, by Prof. Bortolussi. Thanks to my meme-muse, Mav.
+
+
