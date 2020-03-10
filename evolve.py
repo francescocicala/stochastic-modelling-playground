@@ -22,10 +22,8 @@ def print_args(**kwargs):
 
 def show(history, legend=None, title=None, first_t=0, last_t=-1, **kwargs):
     plt.plot(history[first_t : last_t])
-
     if legend is not None:
         plt.legend(legend)
-
     if title is not None:
         plt.title(title)
 
